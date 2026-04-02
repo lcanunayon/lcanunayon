@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Your%20Name&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Builder%20%7C%20Creator&descAlignY=52&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=lcanunayon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Builder%20%7C%20Creator&descAlignY=52&descSize=16" width="100%"/>
 </div>
 
 <!-- About Me -->
@@ -54,7 +54,7 @@
       <h3 align="center">🎨 Project Two</h3>
       <p align="center">
         <a href="https://github.com/yourusername/project-two">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=tokyonight&hide_border=true" alt="Project Two"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=project-two&theme=tokyonight&hide_border=true" alt="Project Two"/>
         </a>
       </p>
       <p align="center">Short description of what this project does and why it's cool.</p>
@@ -64,8 +64,8 @@
     <td width="50%">
       <h3 align="center">🔧 Project Three</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project-three">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-three&theme=tokyonight&hide_border=true" alt="Project Three"/>
+        <a href="https://github.com/lcanunayon/project-three">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=project-three&theme=tokyonight&hide_border=true" alt="Project Three"/>
         </a>
       </p>
       <p align="center">Short description of what this project does and why it's cool.</p>
@@ -73,8 +73,8 @@
     <td width="50%">
       <h3 align="center">🌐 Project Four</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project-four">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-four&theme=tokyonight&hide_border=true" alt="Project Four"/>
+        <a href="https://github.com/lcanunayon/project-four">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=project-four&theme=tokyonight&hide_border=true" alt="Project Four"/>
         </a>
       </p>
       <p align="center">Short description of what this project does and why it's cool.</p>
@@ -89,12 +89,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lcanunayon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcanunayon&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lcanunayon&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -104,8 +104,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lcanunayon)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lcanunayon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
 
