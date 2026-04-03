@@ -9,10 +9,10 @@
 ### 👋 About Me
 
 ```
-✏️  Your description goes here — tell people who you are, what you do, and what you love building.
-🌍  Based in: Your City
-💼  Currently working on: Something cool
-🎯  Interests: Web Dev, Open Source, ...
+✏️  Hello! My name is Angelo, I am a full-stack SWE developer from Chicago, IL. I enjoy learning, working on new projects, and making solutions that leave an impact.
+🌍  Based in: Chicago
+💼  Currently working on: PedNav
+🎯  Interests: SWE, AI, Web Dev, Open Source, ...
 ```
 
 </div>
@@ -24,11 +24,13 @@
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 <!-- Add or remove badges as needed: https://shields.io -->
 
 </div>
@@ -42,42 +44,42 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚀 Project One</h3>
+      <h3 align="center">🚀 PedNav - a Chicago PedWay Navigator</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project-one">
+        <a href="https://github.com/lcanunayon/demonhacks">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=tokyonight&hide_border=true" alt="Project One"/>
         </a>
       </p>
-      <p align="center">Short description of what this project does and why it's cool.</p>
+      <p align="center">Created a Chicago Pedway navigator app utilizing offline pathfinding for routes and AR functionality.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🎨 Project Two</h3>
+      <h3 align="center">🎨 StudyTree - a Study Tracker app</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project-two">
+        <a href="https://github.com/lcanunayon/study-tracker">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=project-two&theme=tokyonight&hide_border=true" alt="Project Two"/>
         </a>
       </p>
-      <p align="center">Short description of what this project does and why it's cool.</p>
+      <p align="center">A C++ study tracker app available for download to organize files/annotation in a personal workspace.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🔧 Project Three</h3>
+      <h3 align="center">🔧 Sunflower - Calorie Tracker</h3>
       <p align="center">
-        <a href="https://github.com/lcanunayon/project-three">
+        <a href="https://github.com/lcanunayon/CalorieTracker">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=project-three&theme=tokyonight&hide_border=true" alt="Project Three"/>
         </a>
       </p>
-      <p align="center">Short description of what this project does and why it's cool.</p>
+      <p align="center">Calorie tracker web app utilizing AI to estimate calories based on image heuristics.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Project Four</h3>
+      <h3 align="center">🌐 Doodle Jump Remake</h3>
       <p align="center">
-        <a href="https://github.com/lcanunayon/project-four">
+        <a href="https://github.com/lcanunayon/Doodle-Jump-Remake">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=project-four&theme=tokyonight&hide_border=true" alt="Project Four"/>
         </a>
       </p>
-      <p align="center">Short description of what this project does and why it's cool.</p>
+      <p align="center">Doodle Jump remake in Python. Available as a download for PC or Mac.</p>
     </td>
   </tr>
 </table>
