@@ -47,7 +47,7 @@
       <h3 align="center">🚀 PedNav - a Chicago PedWay Navigator</h3>
       <p align="center">
         <a href="https://github.com/lcanunayon/demonhacks">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=tokyonight&hide_border=true" alt="Project One"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=demonhacks&theme=tokyonight&hide_border=true" alt="PedNav"/>
         </a>
       </p>
       <p align="center">Created a Chicago Pedway navigator app utilizing offline pathfinding for routes and AR functionality.</p>
@@ -56,7 +56,7 @@
       <h3 align="center">🎨 StudyTree - a Study Tracker app</h3>
       <p align="center">
         <a href="https://github.com/lcanunayon/study-tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=project-two&theme=tokyonight&hide_border=true" alt="Project Two"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=study-tracker&theme=tokyonight&hide_border=true" alt="StudyTree"/>
         </a>
       </p>
       <p align="center">A C++ study tracker app available for download to organize files/annotation in a personal workspace.</p>
@@ -67,7 +67,7 @@
       <h3 align="center">🔧 Sunflower - Calorie Tracker</h3>
       <p align="center">
         <a href="https://github.com/lcanunayon/CalorieTracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=project-three&theme=tokyonight&hide_border=true" alt="Project Three"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=CalorieTracker&theme=tokyonight&hide_border=true" alt="Sunflower"/>
         </a>
       </p>
       <p align="center">Calorie tracker web app utilizing AI to estimate calories based on image heuristics.</p>
@@ -76,7 +76,7 @@
       <h3 align="center">🌐 Doodle Jump Remake</h3>
       <p align="center">
         <a href="https://github.com/lcanunayon/Doodle-Jump-Remake">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=project-four&theme=tokyonight&hide_border=true" alt="Project Four"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lcanunayon&repo=Doodle-Jump-Remake&theme=tokyonight&hide_border=true" alt="Doodle Jump"/>
         </a>
       </p>
       <p align="center">Doodle Jump remake in Python. Available as a download for PC or Mac.</p>
@@ -106,10 +106,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lcanunayon)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lcanunayon)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-canunayon-924862249/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/angjelooQC)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://lcanunayon.github.io/website/#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](lcanunay@depaul.edu)
 
 </div>
 
